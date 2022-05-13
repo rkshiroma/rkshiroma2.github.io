@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body div { border: 1px solid red; }
+
+body {
+  background-color: white;
+  color: black;
+}
+
+.row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+
+.background {
+  position: relative;
+
+}
+
+.logo {
+  max-height: 80px;
+
+}
+
+.curve1 {
+  background-image: url("https://i.imgur.com/0nu5tLm.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.curve-container {
+  min-height: 1000px
+}
+
+.curve2 {
+  background-image: url("https://i.imgur.com/7pB1XDE.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.curve3 {
+  background-image: url("https://i.imgur.com/vZNvgUL.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.curve4 {
+  background-image: url("https://i.imgur.com/gik1URF.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.container-fluid {
+  width: 100%;
+padding-right:0;
+padding-left: 0;
+}
+
+.spacing {
+  padding-top: 20rem
+}
+
+.spacing2 {
+  padding-top: 70rem
+}
+
+.spacing3 {
+  padding-top: 10rem
+}
+
+.spacing4 {
+  padding-top: 5rem
+}
+
+.curve1-text {
+  padding-left: 4
+}
+
+.rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+}
+
+.rcorners2 {
+  border-radius: 10px;
+  background: #73AD21;
+  padding: 20px;
+  background-color: #DEEBFF;
+}
+
+.img-padding {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.img-ledge-padding {
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.img-redge-padding {
+  padding-left: 5px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.c-align {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+background-color: #;
+color: #;
+font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+Border: 1px solid white;
+font-family: 'Poppins', sans-serif;
+weight:
+}
+
+
+
+h1, h3 {
+  font-family:ʻPoppinsʻ, sans-serif;
+}
